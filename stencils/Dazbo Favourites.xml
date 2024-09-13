@@ -242,7 +242,7 @@
     "w": 34.76,
     "h": 28,
     "aspect": "fixed",
-    "title": ""
+    "title": "resource"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=image;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAAA3NCSVQICAjb4U/gAAAABlBMVEVHcExfY2j1czzSAAAAAXRSTlMAQObYZgAAAF1JREFUaIHtzkEOwCAIRUG9/6V7gkZITOq383YsYBhDkg5qFgMA/gBUZwDgZmBXAEAyUJ3fAgBuAKq1HwEAgoD24uIOAJAIVGs/AgAEAe3FxR0AIBHYFQCQCEjShz26cA4B7nnuXgAAAABJRU5ErkJggg==;labelPosition=right;align=left;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"1.1368683772161603e-13\" width=\"60\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
